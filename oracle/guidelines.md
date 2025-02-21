@@ -1,5 +1,5 @@
 % Oracle SQL and PL/SQL Coding Guidelines
-% Ian Hellström
+% Ian Reppel
 
 # Introduction
 To enable database developers on the same team to read one another's code more easily, and to have consistency in the code produced and to be maintained, a set of coding guidelines and standards is provided. The guidelines described in this document have been borrowed heavily from Steven Feuerstein's [Ideas for Oracle PL/SQL Naming Conventions and Coding Standards](http://www.toadworld.com/SF/standards), TopCoder's [Oracle PL/SQL Coding Guidelines](http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf), Jonathan Ingram's [SQL and PL/SQL Coding Standards](http://www.dba-oracle.com/t_plsql_best_practices_standards.htm), and a 2008 white paper by Bryn Llewellyn entitled [Doing SQL from PL/SQL: Best and Worst Practices](http://www.oracle.com/technetwork/database/features/plsql/overview/doing-sql-from-plsql-129775.pdf).
